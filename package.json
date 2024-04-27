@@ -1,0 +1,25 @@
+{
+  "name": "command-line-todo",
+  "version": "1.0.0",
+  "description": "Comman Line ToDo Application with all the features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'We really need to add some testing !!!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dancey-apple/command-line-todo.git"
+  },
+  "keywords": [
+    "ToDoList",
+    "ToDo",
+    "List",
+    "Node"
+  ],
+  "author": "Dancey Apple <dancey.apple@proton.me>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dancey-apple/command-line-todo/issues"
+  },
+  "homepage": "https://github.com/dancey-apple/command-line-todo#readme"
+}
